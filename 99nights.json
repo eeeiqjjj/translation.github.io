@@ -382,6 +382,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Select your language",
     "UI_MEMBERS": "Members",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Sent %d item(s) into the volcano!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d revealed, %d already found.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Fired open on %d chest(s)!",
+    "UI_S_IS_BACK_AT_CAMP": "%s is back at camp.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s failed twice — campfire level too low.",
     "UI_FROZEN_2": "FROZEN"
   },
   "es": {
@@ -767,7 +772,12 @@
     "UI_SELECT_YOUR_LANGUAGE": "Selecciona tu idioma",
     "UI_MEMBERS": "Miembros",
     "UI_ONLINE": "En línea",
-    "UI_FROZEN_2": "FROZEN"
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "¡Envié artículos %d al volcán!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d revelado, %d ya encontrado.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "¡Disparado abierto en el(los) cofre(s) %d!",
+    "UI_S_IS_BACK_AT_CAMP": "%s está de vuelta en el campamento.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s falló dos veces: el nivel de campfire es demasiado bajo.",
+    "UI_FROZEN_2": "CONGELADO"
   },
   "pt": {
     "UI_RINGTA_SCRIPTS": "RINGTA SCRIPTS",
@@ -1152,6 +1162,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Selecione seu idioma",
     "UI_MEMBERS": "Membros",
     "UI_ONLINE": "On-line",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Enviou item(s) %d para o vulcão!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d revelado, %d já encontrado.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Aberto no(s) baú(s) %d!",
+    "UI_S_IS_BACK_AT_CAMP": "%s está de volta ao acampamento.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s falhou duas vezes — nível campfire muito baixo.",
     "UI_FROZEN_2": "CONGELADO"
   },
   "fr": {
@@ -1537,6 +1552,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Sélectionnez votre langue",
     "UI_MEMBERS": "Membres",
     "UI_ONLINE": "En ligne",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Envoyé des articles %d dans le volcan !",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d révélé, %d déjà trouvé.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Tiré ouvert sur le(s) coffre(s) %d !",
+    "UI_S_IS_BACK_AT_CAMP": "%s est de retour au camp.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s a échoué deux fois : niveau campfire trop bas.",
     "UI_FROZEN_2": "CONGELÉ"
   },
   "de": {
@@ -1922,6 +1942,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Wählen Sie Ihre Sprache",
     "UI_MEMBERS": "Mitglieder",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Schickte %d Artikel in den Vulkan!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d angezeigt, %d bereits gefunden.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Auf Truhe(n) von %d offen abgefeuert!",
+    "UI_S_IS_BACK_AT_CAMP": "%s ist zurück im Camp.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s ist zweimal fehlgeschlagen – campfire-Level zu niedrig.",
     "UI_FROZEN_2": "FROZEN"
   },
   "ru": {
@@ -2307,6 +2332,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Выберите язык",
     "UI_MEMBERS": "Члены",
     "UI_ONLINE": "Онлайн",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Отправил предметы %d в вулкан!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d обнаружен, %d уже найден.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Обстрелян сундук(и) %d!",
+    "UI_S_IS_BACK_AT_CAMP": "%s вернулся в лагерь.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s дважды не сработал — уровень campfire слишком низкий.",
     "UI_FROZEN_2": "FROZEN"
   },
   "tr": {
@@ -2692,6 +2722,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Dilinizi seçin",
     "UI_MEMBERS": "Üyeler",
     "UI_ONLINE": "Çevrimiçi",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "%d öğelerini yanardağa gönderdi!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d ortaya çıktı, %d zaten bulundu.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "%d sandık(lar)ında ateş açıldı!",
+    "UI_S_IS_BACK_AT_CAMP": "%s kampa geri döndü.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s iki kez başarısız oldu — campfire düzeyi çok düşük.",
     "UI_FROZEN_2": "DONDURULMUŞ"
   },
   "ko": {
@@ -3077,6 +3112,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "언어를 선택하세요",
     "UI_MEMBERS": "회원",
     "UI_ONLINE": "온라인",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "%d 아이템을 화산으로 보냈습니다!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d가 공개되었으며 %d는 이미 발견되었습니다.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "%d 가슴에 발사되었습니다!",
+    "UI_S_IS_BACK_AT_CAMP": "%s가 캠프로 돌아왔습니다.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s가 두 번 실패했습니다. campfire 수준이 너무 낮습니다.",
     "UI_FROZEN_2": "FROZEN"
   },
   "zh-cn": {
@@ -3462,6 +3502,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "选择您的语言",
     "UI_MEMBERS": "成员",
     "UI_ONLINE": "在线",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "将 %d 物品发送到火山中！",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d 揭晓，%d 已找到。",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "在 %d 宝箱上开火！",
+    "UI_S_IS_BACK_AT_CAMP": "%s 回到营地。",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s 失败两次 — campfire 级别太低。",
     "UI_FROZEN_2": "冷冻"
   },
   "ar": {
@@ -3847,6 +3892,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "اختر لغتك",
     "UI_MEMBERS": "الأعضاء",
     "UI_ONLINE": "على الانترنت",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "أرسل عناصر %d إلى البركان!\nتم الكشف عن",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d، وتم العثور على %d بالفعل.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "تم فتحه على صناديق %d!\nعاد",
+    "UI_S_IS_BACK_AT_CAMP": "%s إلى المعسكر.\nفشل",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s مرتين — مستوى campfire منخفض جدًا.",
     "UI_FROZEN_2": "FROZEN"
   },
   "hi": {
@@ -4232,6 +4282,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "अपनी भाषा चुनें",
     "UI_MEMBERS": "सदस्य",
     "UI_ONLINE": "ऑनलाइन",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "ज्वालामुखी में %d आइटम भेजे!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d का पता चला, %d पहले ही मिल चुका है।",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "%d चेस्ट पर खुली फायरिंग!",
+    "UI_S_IS_BACK_AT_CAMP": "%s शिविर में वापस आ गया है।",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s दो बार विफल रहा - campfire स्तर बहुत कम है।",
     "UI_FROZEN_2": "फ्रोजन"
   },
   "bn": {
@@ -4617,6 +4672,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "আপনার ভাষা নির্বাচন করুন",
     "UI_MEMBERS": "সদস্য",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "%d আইটেম(গুলি) আগ্নেয়গিরিতে পাঠানো হয়েছে!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d প্রকাশিত হয়েছে, %d ইতিমধ্যেই পাওয়া গেছে।",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "ফায়ার করা হয়েছে %d বুকে খোলা!",
+    "UI_S_IS_BACK_AT_CAMP": "%s ক্যাম্পে ফিরে এসেছে।",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s দুবার ব্যর্থ হয়েছে — campfire স্তর খুব কম৷",
     "UI_FROZEN_2": "FROZEN"
   },
   "ta": {
@@ -5002,6 +5062,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "உங்கள் மொழியைத் தேர்ந்தெடுக்கவும்",
     "UI_MEMBERS": "உறுப்பினர்கள்",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "%d உருப்படி(களை) எரிமலைக்குள் அனுப்பியது!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d வெளிப்படுத்தப்பட்டது, %d ஏற்கனவே கண்டறியப்பட்டுள்ளது.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "%d மார்பில்(கள்) திறக்கப்பட்டது!",
+    "UI_S_IS_BACK_AT_CAMP": "%s மீண்டும் முகாமிற்கு வந்துள்ளது.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s இரண்டு முறை தோல்வியடைந்தது - campfire நிலை மிகவும் குறைவு.",
     "UI_FROZEN_2": "FROZEN"
   },
   "pa": {
@@ -5387,6 +5452,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ",
     "UI_MEMBERS": "ਮੈਂਬਰ",
     "UI_ONLINE": "Onਲਾਈਨ",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "%d ਆਈਟਮ(ਜ਼) ਜੁਆਲਾਮੁਖੀ ਵਿੱਚ ਭੇਜੀ ਗਈ!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d ਪ੍ਰਗਟ ਹੋਇਆ, %d ਪਹਿਲਾਂ ਹੀ ਲੱਭਿਆ ਗਿਆ ਹੈ।",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "ਫਾਇਰਡ %d ਛਾਤੀ(ਸਾਂ) 'ਤੇ ਖੁੱਲ੍ਹਾ ਹੈ!",
+    "UI_S_IS_BACK_AT_CAMP": "%s ਕੈਂਪ ਵਿੱਚ ਵਾਪਸ ਆ ਗਿਆ ਹੈ।",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s ਦੋ ਵਾਰ ਅਸਫਲ — campfire ਪੱਧਰ ਬਹੁਤ ਘੱਟ।",
     "UI_FROZEN_2": "FROZEN"
   },
   "ur": {
@@ -5772,6 +5842,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "اپنی زبان منتخب کریں۔",
     "UI_MEMBERS": "اراکین",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "%d آئٹم (زبانیں) آتش فشاں میں بھیجی گئیں!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d انکشاف ہوا، %d پہلے ہی مل گیا ہے۔",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "فائرڈ %d سینے پر کھلا!",
+    "UI_S_IS_BACK_AT_CAMP": "%s کیمپ میں واپس آ گیا ہے۔",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s دو بار ناکام ہو گیا — campfire سطح بہت کم ہے۔",
     "UI_FROZEN_2": "FROZEN"
   },
   "id": {
@@ -6157,6 +6232,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Pilih bahasa Anda",
     "UI_MEMBERS": "Anggota",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Mengirim item %d ke gunung berapi!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d terungkap, %d sudah ditemukan.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Ditembak terbuka di peti %d!",
+    "UI_S_IS_BACK_AT_CAMP": "%s kembali ke perkemahan.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s gagal dua kali — level campfire terlalu rendah.",
     "UI_FROZEN_2": "FROZEN"
   },
   "ms": {
@@ -6542,6 +6622,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Pilih bahasa anda",
     "UI_MEMBERS": "Ahli",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Menghantar item %d ke dalam gunung berapi!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d didedahkan, %d sudah ditemui.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Dibuka pada dada %d!",
+    "UI_S_IS_BACK_AT_CAMP": "%s kembali ke kem.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s gagal dua kali — tahap campfire terlalu rendah.",
     "UI_FROZEN_2": "FROZEN"
   },
   "fil": {
@@ -6927,6 +7012,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Piliin ang iyong wika",
     "UI_MEMBERS": "Mga Miyembro",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Nagpadala ng (mga) %d item sa bulkan!\nInihayag ang",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d, natagpuan na ang %d.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Pinagana bukas sa (mga) dibdib ng %d!",
+    "UI_S_IS_BACK_AT_CAMP": "%s ay bumalik sa kampo.\nDalawang beses nabigo ang",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s — masyadong mababa ang antas ng campfire.",
     "UI_FROZEN_2": "FROZEN"
   },
   "vi": {
@@ -7312,6 +7402,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Chọn ngôn ngữ của bạn",
     "UI_MEMBERS": "Thành viên",
     "UI_ONLINE": "Trực tuyến",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Đã gửi (các) vật phẩm %d vào núi lửa!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d tiết lộ, %d đã được tìm thấy.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Đã khai hỏa trên (các) rương %d!",
+    "UI_S_IS_BACK_AT_CAMP": "%s đã trở lại trại.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s không thành công hai lần - mức campfire quá thấp.",
     "UI_FROZEN_2": "FROZEN"
   },
   "th": {
@@ -7697,6 +7792,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "เลือกภาษาของคุณ",
     "UI_MEMBERS": "สมาชิก",
     "UI_ONLINE": "ออนไลน์",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "ส่งสิ่งของ %d เข้าไปในภูเขาไฟแล้ว!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d เปิดเผย %d พบแล้ว",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "ยิงไปที่หน้าอก %d!",
+    "UI_S_IS_BACK_AT_CAMP": "%s กลับมาถึงแคมป์แล้ว",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s ล้มเหลวสองครั้ง — ระดับ campfire ต่ำเกินไป",
     "UI_FROZEN_2": "FROZEN"
   },
   "ja": {
@@ -8082,6 +8182,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "言語を選択してください",
     "UI_MEMBERS": "メンバー",
     "UI_ONLINE": "オンライン",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "%d アイテムを火山に送りました!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d が明らかになり、%d はすでに見つかりました。",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "%dの胸部で発砲されました!",
+    "UI_S_IS_BACK_AT_CAMP": "%s がキャンプに戻りました。",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s が 2 回失敗しました — campfire レベルが低すぎます。",
     "UI_FROZEN_2": "冷凍"
   },
   "it": {
@@ -8467,6 +8572,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Seleziona la tua lingua",
     "UI_MEMBERS": "Membri",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Inviato/i %d oggetto/i nel vulcano!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d rivelato, %d già trovato.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Sparo aperto sui forzieri %d!",
+    "UI_S_IS_BACK_AT_CAMP": "%s è tornato al campo.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s ha avuto esito negativo due volte: livello campfire troppo basso.",
     "UI_FROZEN_2": "FROZEN"
   },
   "nl": {
@@ -8852,6 +8962,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Selecteer uw taal",
     "UI_MEMBERS": "Leden",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Zuurde %d item(s) naar de vulkaan!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d onthuld, %d al gevonden.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Opengevuurd op %d borst(en)!",
+    "UI_S_IS_BACK_AT_CAMP": "%s is terug op kamp.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s is twee keer mislukt: campfire-niveau te laag.",
     "UI_FROZEN_2": "FROZEN"
   },
   "el": {
@@ -9237,6 +9352,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Επιλέξτε τη γλώσσα σας",
     "UI_MEMBERS": "Μέλη",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Έστειλε %d αντικείμενο(α) στο ηφαίστειο!\nΤο",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d αποκαλύφθηκε, το %d βρέθηκε ήδη.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Άνοιξε στο στήθος %d!\nΟ",
+    "UI_S_IS_BACK_AT_CAMP": "%s επέστρεψε στην κατασκήνωση.\nΤο",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s απέτυχε δύο φορές — Πολύ χαμηλό επίπεδο campfire.",
     "UI_FROZEN_2": "FROZEN"
   },
   "sv": {
@@ -9622,6 +9742,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Välj ditt språk",
     "UI_MEMBERS": "Medlemmar",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Skickade %d föremål till vulkanen!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d avslöjad, %d har redan hittats.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Fired öppen på %d kist(ar)!",
+    "UI_S_IS_BACK_AT_CAMP": "%s är tillbaka på lägret.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s misslyckades två gånger — campfire-nivån för låg.",
     "UI_FROZEN_2": "FROZEN"
   },
   "da": {
@@ -10007,6 +10132,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Vælg dit sprog",
     "UI_MEMBERS": "Medlemmer",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Sendte %d genstande ind i vulkanen!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d afsløret, %d allerede fundet.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Fired åben på %d kiste(r)!",
+    "UI_S_IS_BACK_AT_CAMP": "%s er tilbage på lejren.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s mislykkedes to gange — campfire-niveauet er for lavt.",
     "UI_FROZEN_2": "FROZEN"
   },
   "no": {
@@ -10392,6 +10522,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Velg språket ditt",
     "UI_MEMBERS": "Medlemmer",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Sendte %d gjenstand(er) inn i vulkanen!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d avslørt, %d allerede funnet.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Fired åpen på %d kiste(r)!",
+    "UI_S_IS_BACK_AT_CAMP": "%s er tilbake på leiren.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s mislyktes to ganger — campfire-nivået er for lavt.",
     "UI_FROZEN_2": "FROZEN"
   },
   "pl": {
@@ -10777,6 +10912,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Wybierz język",
     "UI_MEMBERS": "Członkowie",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Wysłano przedmiot(y) %d do wulkanu!\nUjawniono",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d, %d już znaleziono.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Wystrzał otwarty w skrzyniach %d!",
+    "UI_S_IS_BACK_AT_CAMP": "%s wrócił do obozu.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s nie powiodło się dwa razy — poziom campfire za niski.",
     "UI_FROZEN_2": "MROŻONE"
   },
   "uk": {
@@ -11162,6 +11302,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Виберіть свою мову",
     "UI_MEMBERS": "Members",
     "UI_ONLINE": "Oонлайн",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Надіслав %d предмет(ів) у вулкан!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d розкрито, %d вже знайдено.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Відкрито на скринях %d!",
+    "UI_S_IS_BACK_AT_CAMP": "%s повернувся в табір.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s не вдалося двічі — рівень campfire занадто низький.",
     "UI_FROZEN_2": "FROZEN"
   },
   "ro": {
@@ -11547,6 +11692,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Selectați limba dvs",
     "UI_MEMBERS": "Membri",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "A trimis articole %d în vulcan!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d a fost dezvăluit, %d a fost deja găsit.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Tras deschis pe cufărul(ele) %d!",
+    "UI_S_IS_BACK_AT_CAMP": "%s s-a întors în tabără.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s a eșuat de două ori — nivelul campfire prea scăzut.",
     "UI_FROZEN_2": "FROZEN"
   },
   "cs": {
@@ -11932,6 +12082,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Vyberte jazyk",
     "UI_MEMBERS": "Členové",
     "UI_ONLINE": "Oonline",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "S Odešlete položku(y) %d do sopky!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d odhalen, %d již nalezen.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Otevřeno na truhle(ech) %d!",
+    "UI_S_IS_BACK_AT_CAMP": "%s je zpět v táboře.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s dvakrát selhal — úroveň campfire je příliš nízká.",
     "UI_FROZEN_2": "FROZEN"
   },
   "hu": {
@@ -12317,6 +12472,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Válassza ki a nyelvet",
     "UI_MEMBERS": "Memberek",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "%d tárgy(oka)t küldtek a vulkánba!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d kiderült, %d már megtalálható.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "%d ládán/ládákon kiégett!",
+    "UI_S_IS_BACK_AT_CAMP": "%s visszatért a táborba.\nA",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s kétszer meghibásodott – a campfire szint túl alacsony.",
     "UI_FROZEN_2": "FROZEN"
   },
   "he": {
@@ -12702,6 +12862,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "בחר את השפה שלך",
     "UI_MEMBERS": "Members",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "שלח פריט(ים) %d אל הר הגעש!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d נחשף, %d כבר נמצא.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Fired פתוח על חזה(ים) של %d!",
+    "UI_S_IS_BACK_AT_CAMP": "%s חוזר למחנה.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s נכשל פעמיים - רמת campfire נמוכה מדי.",
     "UI_FROZEN_2": "FROZEN"
   },
   "fa": {
@@ -13087,6 +13252,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "زبان خود را انتخاب کنید",
     "UI_MEMBERS": "",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "اقلام %d را به آتشفشان فرستاد!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d فاش شد، %d قبلاً پیدا شده است.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "روی سینه(های) %d باز شد!",
+    "UI_S_IS_BACK_AT_CAMP": "%s به کمپ بازگشته است.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s دو بار شکست خورد — سطح campfire خیلی پایین است.",
     "UI_FROZEN_2": "FROZEN"
   },
   "sw": {
@@ -13472,6 +13642,11 @@
     "UI_SELECT_YOUR_LANGUAGE": "Chagua lugha yako",
     "UI_MEMBERS": "",
     "UI_ONLINE": "Online",
+    "UI_SENT_D_ITEM_S_INTO_THE_VOLCANO": "Imetuma vipengee vya %d kwenye volkano!",
+    "UI_D_REVEALED_D_ALREADY_FOUND": "%d imefichuliwa, %d tayari imepatikana.",
+    "UI_FIRED_OPEN_ON_D_CHEST_S": "Imefunguliwa kwenye vifua vya %d!",
+    "UI_S_IS_BACK_AT_CAMP": "%s amerejea kambini.",
+    "UI_S_FAILED_TWICE_CAMPFIRE_LEVEL_TOO_LOW": "%s imeshindwa mara mbili - kiwango cha campfire ni cha chini sana.",
     "UI_FROZEN_2": "FROZEN"
   }
 }
